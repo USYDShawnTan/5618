@@ -7,6 +7,6 @@
 
 # 目录
 
-## 02_meeting_policy
+## 02_会议政策
 
 - [团队会议政策文档](/docs-zh/02_meeting_policy/Meeting%20Policy.md)

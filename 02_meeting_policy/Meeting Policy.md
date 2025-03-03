@@ -1,67 +1,73 @@
 [English](/02_meeting_policy/Meeting%20Policy.md) | [中文](/docs-zh/02_meeting_policy/Meeting%20Policy.md)
 
-# Team Meeting Policy Document
+# 02 Meeting Policy
 
-## Introduction
+## 1. Introduction
 
-This document outlines our team meeting policy to ensure clear communication, efficient task management, and effective collaboration throughout the project. All team members are expected to adhere to these guidelines to support a productive working environment.
+This meeting policy aims to standardize the organization, scheduling, participation, and responsibilities of team meetings to ensure effectiveness and smooth collaboration.
 
-## Meeting Schedule
+## 2. Team Members and Contact Information
 
-- **Frequency:** Weekly
-- **Day:** Every Saturday
-- **Time:** [Insert agreed-upon time]
-- **Platform:** Zoom
+| Name        | Role        | Contact Information    |
+| ----------- | ----------- | ---------------------- |
+| John Doe    | Leader      | johndoe@example.com    |
+| Jane Smith  | Secretary   | janesmith@example.com  |
+| Alice Brown | Participant | alicebrown@example.com |
 
-## Meeting Agenda
+(_Note: The above information is an example. Please replace it with actual team member details._)
 
-1. **Opening & Attendance:**
+## 3. How to Call a Meeting
 
-   - Start the meeting promptly.
-   - Confirm attendance and note any absences.
+- Meetings are scheduled by the team leader or a designated member.
+- Meeting notices should be sent at least **24 hours in advance** via email, Slack, or the team group chat.
+- The agenda should be clearly stated in the meeting notice.
 
-2. **Review of Previous Meeting:**
+## 4. Meeting Venue
 
-   - Briefly discuss updates and the progress of previously assigned tasks.
+- **In-person meetings**: Default venue is **J15.01.101 Shepherd St Building**. Changes must be communicated in advance.
+- **Online meetings**: Conducted via **Zoom / Microsoft Teams / Google Meet**, with the meeting link included in the notice.
 
-3. **Task Assignment:**
+## 5. Meeting Time
 
-   - Assign new tasks based on the project needs.
-   - Clearly define responsibilities and deadlines.
-   - Encourage team members to ask questions or seek clarification on their tasks.
+- The meeting start time will be determined based on the availability of team members.
+- Meetings should not exceed **90 minutes** unless pre-approved by the team.
 
-4. **Open Discussion:**
+## 6. Meeting Frequency
 
-   - Allow team members to raise issues, suggestions, or improvements.
-   - Foster an environment of open communication and collaboration.
+- At least **one regular meeting per week**.
+- Additional meetings can be scheduled as needed based on project progress and requirements.
 
-5. **Closing:**
-   - Summarize key decisions and action items.
-   - Confirm the time and agenda for the next meeting.
+## 7. Roles & Responsibilities
 
-## Roles and Responsibilities
+- **Leader**: Organizes the meeting, manages the discussion flow, and ensures meeting objectives are met.
+- **Facilitator**: Guides discussions and ensures all members have the opportunity to contribute.
+- **Secretary**: Records key points, decisions, action items, and assigned responsibilities.
+- **Participants**: Actively participate in discussions, contribute ideas, and complete assigned tasks.
 
-- **Meeting Facilitator:**
-  - Leads the meeting, ensures adherence to the agenda, and moderates discussions.
-- **Note-Taker:**
-  - Records key points, decisions, and action items to be shared with the team after the meeting.
-- **Team Members:**
-  - Actively participate, provide updates, and complete assigned tasks by the agreed deadlines.
-  - Communicate any challenges or changes promptly.
+## 8. Meeting Procedure
 
-## Communication Guidelines
+- **Before the meeting**:
+  - The meeting organizer sends the agenda and confirms receipt by all members.
+- **During the meeting**:
+  - The leader introduces the meeting objectives.
+  - The secretary takes notes on discussions and decisions.
+  - The facilitator ensures efficient discussion.
+- **After the meeting**:
+  - The secretary compiles and distributes the meeting minutes within **24 hours**.
+  - Action items are assigned to individuals with clear deadlines.
 
-- Meetings will be held exclusively via Zoom.
-- All members should ensure their audio and video are functional before the meeting.
-- Maintain respectful and clear communication during discussions.
-- If a team member is unable to attend, they should notify the group in advance and catch up on missed content via shared meeting notes.
+## 9. Absence Policy
 
-## Task Management
+- If a member cannot attend, they must notify the team **at least 4 hours in advance** via group chat or email, stating the reason.
+- The leader or secretary will provide the meeting minutes to the absent member to ensure they are updated on key discussions and tasks.
 
-- Tasks will be assigned during the meeting with clear expectations and deadlines.
-- The progress of tasks will be reviewed at the start of each meeting.
-- Team members are responsible for updating the team on their progress and raising any issues that may impede task completion.
+## 10. Expectations
 
-## Conclusion
+- Members should attend meetings on time and review the agenda in advance.
+- Stay focused during the meeting and avoid unrelated activities.
+- Respect each other’s opinions, listen actively, and avoid conflicts.
+- Each meeting should have clear outcomes, including decisions, action items, and assigned responsibilities.
 
-This meeting policy is designed to promote efficiency, accountability, and a positive team culture. By following these guidelines, our team will be well-equipped to meet our project deadlines and achieve our objectives collaboratively.
+---
+
+This meeting policy applies to the **ELEC5618 Software Quality Engineering** course team and will be adjusted as needed based on team requirements.

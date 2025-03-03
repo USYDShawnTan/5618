@@ -1,3 +1,5 @@
+[English](/02_meeting_policy/Meeting%20Policy.md) | [中文](/docs-zh/02_meeting_policy/Meeting%20Policy.md)
+
 # Team Meeting Policy Document
 
 ## Introduction

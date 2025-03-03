@@ -8,11 +8,9 @@ This meeting policy aims to standardize the organization, scheduling, participat
 
 ## 2. Team Members and Contact Information
 
-| Name        | Role        | Contact Information    |
-| ----------- | ----------- | ---------------------- |
-| John Doe    | Leader      | johndoe@example.com    |
-| Jane Smith  | Secretary   | janesmith@example.com  |
-| Alice Brown | Participant | alicebrown@example.com |
+| Name       | Role   | Contact Information        |
+| ---------- | ------ | -------------------------- |
+| ZIHANG TAN | Leader | ztan0559@uni.sydney.edu.au |
 
 (_Note: The above information is an example. Please replace it with actual team member details._)
 
